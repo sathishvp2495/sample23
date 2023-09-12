@@ -1,5 +1,9 @@
 # Awesome Project
 
+## - **mask_single_collection.js**
+    --> update db name in LINE #1
+    --> update the collection in LINE #88
+
 ## Description
 
 Welcome to the **Awesome Project**! This is a fantastic project that does some amazing things. Whether you're a developer, designer, or just curious, you'll find something interesting here.
