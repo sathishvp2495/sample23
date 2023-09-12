@@ -13,7 +13,6 @@ Welcome to the **Awesome Project**! This is a fantastic project that does some a
 
 ## Code Example
 
-```bash
-#!/bin/bash
-
-echo "Hello, World!"
+```python
+def hello_world():
+    print("Hello, World!")
