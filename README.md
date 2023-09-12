@@ -15,7 +15,7 @@ Welcome to the **Awesome Project**! This is a fantastic project that does some a
 - ***Exciting Feature 3***: Combining **bold** and *italic* text for that extra emphasis.
 - [Link to Something](https://example.com): You can create clickable links as well.
 
-###k Command to run the script
+### Command to run the script
 
 ```bash
 mongosh < filename.js
