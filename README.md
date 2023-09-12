@@ -1,6 +1,6 @@
 # Awesome Project
 
-## - **mask_single_collection.js**
+## **mask_single_collection.js**
     --> update db name in LINE #1
     --> update the collection in LINE #88
 
