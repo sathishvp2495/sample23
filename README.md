@@ -1,21 +1,13 @@
-# Awesome Project
+## Title
 
-## **mask_single_collection.js**
-    --> update db name in LINE #1
-    --> update the collection in LINE #88
+### Place 1
 
-## Description
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
-Welcome to the **Awesome Project**! This is a fantastic project that does some amazing things. Whether you're a developer, designer, or just curious, you'll find something interesting here.
+### Place 2
 
-## Features
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
-- **Awesome Feature 1**: This is an example of a bullet point with **bold** text.
-- *Cool Feature 2*: Here's a bullet point with *italic* text.
-- ***Exciting Feature 3***: Combining **bold** and *italic* text for that extra emphasis.
-- [Link to Something](https://example.com): You can create clickable links as well.
+### Place's 3: other example
 
-### Command to run the script
-
-```bash
-mongosh < filename.js
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
